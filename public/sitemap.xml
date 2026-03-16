@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/servicios</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/blog</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/reseñas</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/contacto</loc>
+    <priority>0.8</priority>
+  </url>
+  <!-- Dynamic services should be added here -->
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/servicios/deteccion-fugas-agua</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-k6biwttfqfs6jvi5ucv5nn-129623626105.europe-west2.run.app/servicios/instalacion-calentadores</loc>
+    <priority>0.7</priority>
+  </url>
+</urlset>
