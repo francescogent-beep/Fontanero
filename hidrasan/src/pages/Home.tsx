@@ -77,9 +77,9 @@ export const Home: React.FC = () => {
       </section>
 
       {/* Benefits */}
-      <Section className="pt-0 md:pt-0 pb-[70px]">
+      <Section className="pt-0 md:pt-0 pb-[70px] lg:pb-[35px]">
         <Container>
-          <Grid cols={3} className="gap-4 sm:gap-8 pt-[35px] pb-0">
+          <Grid cols={3} className="gap-4 sm:gap-6 lg:gap-10 pt-[35px] pb-0">
             <FeatureItem 
               title="Atención Rápida" 
               text="Sabemos que una fuga no puede esperar. Acudimos a tu domicilio en el menor tiempo posible." 
