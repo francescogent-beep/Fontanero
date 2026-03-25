@@ -254,7 +254,7 @@ export const SEO_DEFAULTS = {
 export const ABOUT_ME = {
   title: "Sobre Mí",
   subtitle: "Más de 15 años de experiencia en fontanería y reparaciones en Murcia",
-  description: "Mi nombre es Francesco y soy el fundador de Hidrasan. Empecé en este oficio con una maleta de herramientas y una misión clara: ofrecer un servicio de fontanería honesto, rápido y de calidad en mi comunidad. Hoy, Hidrasan es sinónimo de confianza para cientos de vecinos en Murcia.",
+  description: "Mi nombre es Javi y soy el fundador de Hidrasan. Empecé en este oficio con una maleta de herramientas y una misión clara: ofrecer un servicio de fontanería honesto, rápido y de calidad en mi comunidad. Hoy, Hidrasan es sinónimo de confianza para cientos de vecinos en Murcia.",
   image: "https://picsum.photos/seed/plumber-working/800/1000",
   stats: [
     { label: "Años de Experiencia", value: "15+" },
