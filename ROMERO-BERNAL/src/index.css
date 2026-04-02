@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply text-zinc-950 antialiased;
+  }
+}
+
+@layer components {
+  .app-bg-image {
+    background-image: url('https://i.imgur.com/6JFnvuk.jpeg');
+  }
+  
+  @media (min-width: 768px) {
+    .app-bg-image {
+      background-image: url('https://i.imgur.com/6JFnvuk.jpeg');
+    }
+  }
+}
